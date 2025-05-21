@@ -39,14 +39,13 @@
 >Although I was generally interested in technology, I wasn't sure what particular abilities I needed to develop. It was challenging for me to decide which duties and work environments best suited my interests and strengths because there are so many different professions in the ICT industry, from networking to software development to cybersecurity. It was difficult for me to make well-informed decisions regarding my future professional route because of this uncertainty.
 >
 >**Task:**  
-> Finding my main capabilities and matching them to possible ICT-related job opportunities was my aim. I wanted to go beyond my general interest in technology and develop a better sense of the areas in which I could be most useful. This challenged me to identify my most transferable abilities, recognising my preferred ways of working, and match them with career fields where I could flourish on both a personal and professional level.
+>Finding my main capabilities and matching them to possible ICT-related job opportunities was my aim. I wanted to go beyond my general interest in technology and develop a better sense of the areas in which I could be most useful. This challenged me to identify my most transferable abilities, recognising my preferred ways of working, and match them with career fields where I could flourish on both a personal and professional level.
 >
 >**Action:**  
->       
-
+>After completing the Skills and Interests Quiz, I tried self-assessments to better understand my strengths. I learnt that I have strong analytical and organisation abilities. Additionally, I identified my occupational interests as investigative, creative, and conventional.     
 >
 >**Result:**  
-> 
+>My focus has now shifted towards career paths like system analysis and cybersecurity roles, which requires creativity, management and problem-solving abilities. This has enhanced my academic interest and provided more clarity regarding my  goals for the future.
 >
 >---
 
@@ -56,12 +55,13 @@
 >
 >### REFLECTION
 >**Situation:**  
->I was unsure how my personality matched IT job roles.
+>I was not sure of how my personality suited certain IT job responsibilities. Additionally, I frequently had trouble understanding my function in team settings and felt uncomfortable when doing things in groups.
 >
 >**Task:**  
-> Understand personality traits and their impact on teamwork and job fit.  >
->**Action:**  
->  Took the MBTI and discussed results with a mentor.
+>In order to improve my productive skills and career match, I needed to have a deeper understanding of my personality attributes. My goal was to find job environments and responsibilities that reflected my way of thinking and connecting with others.
+>
+>**Action:**
+> 
 >
 >**Result:**  
 > Learned that my detail-oriented nature fits roles in cybersecurity and infrastructure.
@@ -89,6 +89,7 @@
 
 ## CV SUBMISSION 
 >### EVIDENCE
+>
 >### REFLECTIONS
 >**Situation:**  
 > My CV was outdated and not focused on my current career interests.
