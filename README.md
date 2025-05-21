@@ -61,10 +61,10 @@
 >In order to improve my productive skills and career match, I needed to have a deeper understanding of my personality attributes. My goal was to find job environments and responsibilities that reflected my way of thinking and connecting with others.
 >
 >**Action:**
-> 
+>I focused on previous group and individual work situations, paying special attention to what made me feel effective and comfortable. Along with doing my own research on personality types and work styles in ICT industries, I also had a conversation with a mentor. Throughout this process, I discovered that I enjoy organisation, clear processes, and work that require problem solving and attention to detail.
 >
 >**Result:**  
-> Learned that my detail-oriented nature fits roles in cybersecurity and infrastructure.
+>My attention to detail and desire for structure proved to be a good fit for careers in cybersecurity and IT infrastructure. I now continuously search for work environments in which I can operate independently or with well-defined roles within a team. This insight has also enabled me to participate more effectively to group projects by focusing on structured, task-specific contributions.
 >
 >---
 
