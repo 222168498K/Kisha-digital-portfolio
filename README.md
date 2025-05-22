@@ -6,7 +6,7 @@
 >
 >PRP371s: Project Presentation 3
 >
-> Welcome to my portfolio. This page showcases my learning, skills, and reflections of the Work Readiness training.
+> Welcome to my portfolio. This page highlights my learning journey, skills, and reflections from the Work Readiness training.
 >
 >---
 
@@ -74,34 +74,35 @@
 >
 >### REFLECTIONS
 >**Situation:**  
-> My CV was outdated and not focused on my current career interests.
+>My CV was outdated, lacked clarity, and did not reflect my current career interests. It also failed to meet industry standards for format and focus, which made it less effective when applying for opportunities.
 >
 >**Task:**  
-> Create a compelling CV tailored to IT and cybersecurity.  
+> I needed to create a compelling and professional CV tailored specifically to the field I am most interested in.It had to beone that effectively showcases my technical skills, academic background, and career objectives.  
 >
 >**Action:**  
 >   Used templates and feedback to write an updated CV.  
 >
 >**Result:**  
-> Received positive responses during mock interviews and applications.
+> Using the CV module guidelines, industry templates, and mentor feedback, I rewrote my CV with a clean, modern layout. I used strong action verbs, bullet points to highlight key achievements, and customized the content for specific job roles. Even though my work experience is quite littlw,I ensured that the CV aligned with what recruiters in the tech sector look for.
 >
 >---
 
 ## CV SUBMISSION 
 >### EVIDENCE
->
+>![CV Submission](https://github.com/user-attachments/assets/ba720c25-e8f4-4e3c-8b12-f75cc6018ed8)
+
 >### REFLECTIONS
 >**Situation:**  
-> My CV was outdated and not focused on my current career interests.
+> After several revisions, I needed to finalise my CV to meet submission requirements for my course and future applications.
 >
 >**Task:**  
-> Create a compelling CV tailored to IT and cybersecurity.  
+> Complete a polished, professional CV that clearly presents my qualifications and aligns with industry expectations. 
 >
 >**Action:**  
->   Used templates and feedback to write an updated CV.  
+>I thoroughly evaluated all previous feedback, fine-tuned the layout and wording, guaranteed consistency, and double-checked for mistakes. Before submitting the final version, I modified the CV to showcase abilities and experiences relevant to cybersecurity and information technology careers. 
 >
 >**Result:**  
-> Received positive responses during mock interviews and applications.
+>My mentor was pleased with my final CV, which met all academic and professional criteria. It boosted my application package and provided me the confidence to move forward with my job quest.
 >
 >---
 
